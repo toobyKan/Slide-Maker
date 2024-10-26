@@ -12,7 +12,6 @@ namespace doc {
         public:
             using SlideIterator = std::vector<std::shared_ptr<Slide>>::iterator;
 
-        public:
             Document();
     };
 
